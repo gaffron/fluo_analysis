@@ -4,3 +4,7 @@
 .Ruserdata
 README.html
 data/*
+plot/*
+produced_data/*
+raw_data/*
+reports/*
